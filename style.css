@@ -2,7 +2,7 @@
 body {
   background-color: #f8f8f8;
   color: #333;
-  font-family: Lato, sans-serif;
+  font-family: lato, sans-serif;
 }
 .aaa {
   width: 500px;
@@ -23,7 +23,7 @@ body {
 }
 .centered-main-page-element {
   display: block;
-    width: 500px;
+  width: 500px;
   margin: 0 auto 0;
 }
 .task {
@@ -76,7 +76,7 @@ input[type="text"] {
   border: 1px solid #dDd;
   background: #FFF;
   border-radius: 6px;
-  font-family: Lato, sans-serif;
+  font-family: lato, sans-serif;
   color: #888;
 }
 input[type="text"]:focus {
@@ -120,11 +120,11 @@ li >    input[type="text"] {
 }
 button.delete img {
   height: 2em;
-  transform: rotateZ(45deg);
+  transform: rotatez(45deg);
   transition: transform 200ms ease-in;
 }
 button.delete img:hover {
-  transform: rotateZ(0);
+  transform: rotatez(0);
 }
 
 /* Completed */
@@ -138,11 +138,11 @@ ul li input[type=text] {
   display:none
 }
 
-ul li.editMode input[type=text] {
+ul li.edit-mode input[type=text] {
   display:inline-block;
   width:224px
 }
 
-ul li.editMode label {
+ul li.edit-mode label {
   display:none;
 }
