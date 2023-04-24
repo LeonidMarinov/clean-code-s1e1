@@ -33,7 +33,7 @@
   margin: 0 auto 0;
 }
 
-.heading{
+.heading {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -88,7 +88,7 @@
   border-bottom: 1px solid #eee;
 }
 
-.task-item_edit-mode .task-input{
+.task-item_edit-mode .task-input {
   display: inline-block;
   width: 224px;
 }
