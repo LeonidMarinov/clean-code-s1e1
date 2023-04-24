@@ -44,7 +44,7 @@
 }
 
 .list {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 
@@ -89,8 +89,8 @@
 }
 
 .task-item_edit-mode .task-input{
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .task-item_edit-mode .task-item__label {
