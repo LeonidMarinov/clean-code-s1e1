@@ -90,11 +90,11 @@
 
 .task-item_edit-mode .task-input{
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .task-item_edit-mode .task-item__label {
-  display:none;
+  display: none;
 }
 
 .task-input {
